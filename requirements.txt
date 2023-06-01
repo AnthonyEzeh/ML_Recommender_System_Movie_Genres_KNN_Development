@@ -4,3 +4,4 @@ altair
 streamlit
 sklearn
 pickle
+time
